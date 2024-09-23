@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 97408647+gfgago@users.noreply.github.com
+	name = Guilherme Gago
